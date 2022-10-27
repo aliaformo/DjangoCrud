@@ -29,6 +29,8 @@
 6. [Entity and Relationship, Models and admin, loading environment variables](https://www.youtube.com/watch?v=9LQA56KGsBE)
 7. [Models](https://docs.djangoproject.com/en/4.1/topics/db/models/)
 8. [Python Office Hour with Enny](https://www.youtube.com/watch?v=CATSNHO1rn0)
+9. [Python Office Hour with Enny](https://www.youtube.com/watch?v=XlDxrMNIvZc&list=PLxuUHF3OiqfUL4JHM5iiLEdoNJBMqyCbq&index=159)
+10. [Python Office Hour with Femi](https://www.youtube.com/watch?v=HwY9Ym98LSA&list=PLxuUHF3OiqfUL4JHM5iiLEdoNJBMqyCbq&index=160)
 
 ### 🔧 Tools
 
@@ -60,12 +62,15 @@
 
 ![runnigserver 1st time](zproject-picviz/2.runnigserver.png)
   
-3. Pic
+3. General view
 
-[]()
+![general](zproject-picviz/3.General.png)
 
-4. Pic
+5. Artiste 
 
-[]()
+![artiste](zproject-picviz/4.Artiste.png)
 
+6. Song
+
+![song](zproject-picviz/5.Songs.png.png)
 ## ⭐ Thanks I4GxZuri Team and Mentors 🏅
