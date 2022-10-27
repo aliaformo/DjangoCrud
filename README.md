@@ -72,5 +72,5 @@
 
 6. Song
 
-![song](zproject-picviz/5.Songs.png.png)
+![song](zproject-picviz/5.Songs.png)
 ## ⭐ Thanks I4GxZuri Team and Mentors 🏅
