@@ -28,6 +28,7 @@
 5. [Updating and deleting items](https://www.youtube.com/watch?v=PRSZRDrrGYY&list=PLxuUHF3OiqfWAITD4gPUHZ1GcYRqmyF7P&index=46)
 6. [Entity and Relationship, Models and admin, loading environment variables](https://www.youtube.com/watch?v=9LQA56KGsBE)
 7. [Models](https://docs.djangoproject.com/en/4.1/topics/db/models/)
+8. [Python Office Hour with Enny](https://www.youtube.com/watch?v=CATSNHO1rn0)
 
 ### 🔧 Tools
 
@@ -51,15 +52,19 @@
 
 ### 📂 Project samples
 
-1. Server running after python manage.py runserver (initiation)
+1. Database relationships
 
-![runnigserver 1st time](zproject-picviz/1.runnigserver.png)
+![database relationship](zproject-picviz/1.databaserelationship.png)
+
+2. Server running after python manage.py runserver (initiation)
+
+![runnigserver 1st time](zproject-picviz/2.runnigserver.png)
   
-1. Pic
+3. Pic
 
 []()
 
-2. Pic
+4. Pic
 
 []()
 
